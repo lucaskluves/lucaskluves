@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Matheus Kluves 👋
 
-- 💻Atualmente trabalho com Linux sou analista de infraestrutura jr.
+- 💻Atualmente trabalho com Linux sou analista de infraestrutura Pleno.
 - 👨‍💻Estudando para certificação LPI-C1.
 
 <div>
