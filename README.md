@@ -2,7 +2,7 @@
 
 - 💻Atualmente trabalho com Linux sou analista de infraestrutura Pleno.
 - 👨‍💻Estudando para certificação LPI-C1.
-
+- Admin github
 <div>
 <a href="https://github.com/lucaskluves">
  
